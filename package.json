@@ -1,0 +1,13 @@
+{
+  "name": "kitchen",
+  "version": "1.0.0",
+  "description": "Node.js on Docker",
+  "author": "Iris Yu <jelly.yu1992@gmail.com>",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
